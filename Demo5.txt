@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aaaa
 增加内容by master
+=======
+aaa
+增加内容by branch01
+>>>>>>> branch01
